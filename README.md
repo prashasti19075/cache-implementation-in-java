@@ -15,7 +15,7 @@ Cache Simulation and implementation in java.
 ## Set Associative
 ### 4 BIT
 ![alt text](https://github.com/prashasti19075/cache-implementation-in-java/blob/main/Image%20Illustrations/Set%20Associative/4%20BIT/set%20associative.JPG)
-![alt text](https://github.com/prashasti19075/cache-implementation-in-java/blob/main/Image%20Illustrations/Set%20Associative/4%20BIT/set_associative%20pic%201.JPG)
+![alt text](https://github.com/prashasti19075/cache-implementation-in-java/blob/main/Image%20Illustrations/Set%20Associative/4%20BIT/set_associative%20pic%201.jpg)
 ![alt text](https://github.com/prashasti19075/cache-implementation-in-java/blob/main/Image%20Illustrations/Set%20Associative/4%20BIT/set_associative%20pic%202.JPG)
 ![alt text](https://github.com/prashasti19075/cache-implementation-in-java/blob/main/Image%20Illustrations/Set%20Associative/4%20BIT/set_associative%20pic%203.JPG)
 ![alt text](https://github.com/prashasti19075/cache-implementation-in-java/blob/main/Image%20Illustrations/Set%20Associative/4%20BIT/set_associative%20pic%204.JPG)
